@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Liferay Product Navigation Product Menu Theme Contributor
+Bundle-SymbolicName: com.liferay.product.navigation.product.menu.theme
+ .contributor
+Bundle-Version: 1.1.0
+Created-By: 1.8.0_121 (Oracle Corporation)
+Javac-Debug: on
+Javac-Deprecation: off
+Javac-Encoding: Cp1252
+Liferay-Releng-Module-Group-Title: Product Navigation
+Liferay-Theme-Contributor-Type: product-navigation-product-menu
+Liferay-Theme-Contributor-Weight: 100
+Tool: Bnd-3.2.0.201605172007
+Web-ContextPath: /product-navigation-product-menu-theme-contributor
